@@ -1,4 +1,4 @@
-<h1>Simple Bank Management System in Python<h1>
+<h1>Simple Bank Management System in Python</h1>
 <br><br>
 This project is a Simple Bank Management System implemented in Python. It simulates basic banking functionalities like account creation, login, money deposit, withdrawal, balance inquiry, and password management. The system also enforces strong password requirements for enhanced security.
 <br><br>
