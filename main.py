@@ -31,10 +31,10 @@ def password_cheaker():
             print('Password is not Strong , As It has less than 8 Characters')
 
 
-database = {"SBI101": {'Name':"Anurag Dhakad",
-                       'Mobile No': 9460602957,
-                       'Address' : 'Alwer',
-                       'Balance' : 21020,
+database = {"SBI101": {'Name':"Ankit Prajapat",
+                       'Mobile No': 9413812543,
+                       'Address' : 'Jaipur',
+                       'Balance' : 25000,
                        'Password': "Ankit@123"
                         },
             "SBI102": {'Name':'Amit kumar',
